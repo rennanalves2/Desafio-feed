@@ -77,6 +77,10 @@ header {
 }
 
 @media (max-width: 530px) {
+    header h1 {
+        font-size: 25px;
+    }
+
     .profile-post span {
         font-size: 18px;
     }
